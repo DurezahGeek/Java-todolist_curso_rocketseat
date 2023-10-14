@@ -1,0 +1,11 @@
+br\com\Biatriz\todolist\TodolistApplication.class
+br\com\Biatriz\todolist\user\UserController.class
+br\com\Biatriz\todolist\task\TaskModel.class
+br\com\Biatriz\todolist\task\TaskController.class
+br\com\Biatriz\todolist\user\UserModel.class
+br\com\Biatriz\todolist\filter\FilterTaskAuth.class
+br\com\Biatriz\todolist\task\ITaskRepository.class
+br\com\Biatriz\todolist\controller\MinhaPrimeiraController.class
+br\com\Biatriz\todolist\errors\ExceptionHandlerController.class
+br\com\Biatriz\todolist\utils\Utils.class
+br\com\Biatriz\todolist\user\IUserRepository.class
