@@ -8,5 +8,5 @@ FROM openjdk:17-jdk-slim
 COPY target/todolist-1.0.0.jar app.jar
 FROM openjdk:17-jdk-slim
 EXPOSE 8080
-ENTRYPOINT ["java", "-jar", "/app.jar"]
+ENTRYPOINT ["java", "-jar", "app.jar"]
 
